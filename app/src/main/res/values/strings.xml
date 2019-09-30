@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Haystax</string>
+    <string name="retry">Retry</string>
+    <string name="error_loading_data">Error Loading Data</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+</resources>
