@@ -1,1 +1,1 @@
-App implementing Haystax API incidents
+App implementing Haystax API displaying incidents
